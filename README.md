@@ -12,7 +12,7 @@
 
 ---
 
-## 🖼 Minh họa
+## 🖼 Ảnh Minh họa
 ![Ảnh 1](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-1.png)  
 ![Ảnh 2](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-2.png)  
 ![Ảnh 3](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-3.png)  
