@@ -12,6 +12,15 @@
 
 ---
 
+## 🖼 Minh họa
+![Ảnh 1](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-1.png)  
+![Ảnh 2](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-2.png)  
+![Ảnh 3](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-3.png)  
+![Ảnh 4](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-4.png)  
+![Ảnh 5](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-5.png)  
+
+---
+
 ## ⚙️ Tính năng nổi bật
 - 🖥 **Hỗ trợ đa tab**: Lên đến 30 tab chạy song song.  
 - ⏱ **Theo dõi thời gian & coins** theo từng tab.  
@@ -35,7 +44,7 @@
 
 1. **Cài đặt Python và Google Chrome**
    - Tải Python tại: [Tải Python Ấn Vô Đây!](https://vanmanhgaming2k10.dpdns.org/getkey/python-3.11.9-amd64.exe)
-   - Tải Google Chrome tại: [Tải chrome Ấn Vô Đây!](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BEBD141C0-3C4C-0B03-6ECE-37557F2F9E12%7D%26lang%3Dvi%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe)
+   - Tải Google Chrome tại: [Tải Chrome Ấn Vô Đây!](https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BEBD141C0-3C4C-0B03-6ECE-37557F2F9E12%7D%26lang%3Dvi%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe)
    
 2. **Tải công cụ**
    - Tải toàn bộ mã nguồn về máy.
