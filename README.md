@@ -18,6 +18,7 @@
 ![Ảnh 3](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-3.png)  
 ![Ảnh 4](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-4.png)  
 ![Ảnh 5](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-5.png)  
+![Ảnh 6](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-6.png) 
 
 ---
 
