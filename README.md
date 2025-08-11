@@ -11,7 +11,7 @@
 💡 Phù hợp cho những ai muốn tối ưu hóa thời gian, giảm thao tác thủ công và quản lý nhiều tab AFK cùng lúc.
 
 ---
-
+4
 ## 🖼 Ảnh Minh họa
 ![Ảnh 1](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-1.png)  
 ![Ảnh 2](https://github.com/vanmanhgaming2k9/Sryzen-AFK-Fram-Coins/blob/main/anh-cong-cu/anh-2.png)  
