@@ -1,6 +1,5 @@
 # 🚀 Sryzen AFK Tool - @vanmanhgaming 🚀
 
-
 > **📜 BẢN QUYỀN THUỘC VỀ:** `@vanmanhgaming`  
 > ❌ **KHÔNG ĐƯỢC PHÉP** chỉnh sửa, sao chép, phát tán hoặc tái sử dụng mã nguồn khi chưa có sự cho phép.  
 > ⚠️ Vi phạm sẽ bị xử lý theo **luật bản quyền phần mềm**.
